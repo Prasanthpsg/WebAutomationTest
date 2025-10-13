@@ -16,7 +16,6 @@ import org.testng.asserts.SoftAssert;
 @Listeners(TestListener.class)
 public class BaseTest {
     public WebDriver driver;
- // protected  SoftAssert softAssert = new SoftAssert();
 
     @BeforeClass
     public void createDriver(){
