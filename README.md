@@ -121,6 +121,12 @@ Screenshot saved if any step fails.
 
 <img width="975" height="428" alt="image" src="https://github.com/user-attachments/assets/93f200b6-6dc1-4bce-8071-5c1d0b5a67db" />
 
+**Failure Scenario:**
+
+Upon test failure, the ITestListener interface’s onTestFailure() method successfully captured a screenshot and saved it in the designated screenshots folder.
+
+<img width="458" height="230" alt="image" src="https://github.com/user-attachments/assets/97ccc15d-13c2-49d4-b807-969fcf9f3937" />
+
 **Execution video and step by step documentation:**
 
 https://github.com/Prasanthpsg/WebAutomationTest/blob/main/Web%20Automation%20Report.docx
