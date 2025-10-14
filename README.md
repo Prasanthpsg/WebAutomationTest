@@ -27,7 +27,6 @@ WebAutomationTest/
 ├── src/main/java/com/seersolutions/pages/ # Page classes (LoginPage, InventoryPage, CartPage, CheckOutPage, ConfirmationPage.)
 ├── src/test/java/com/seersolutions/tests/ # Test classes (PurchaseScenarioTest)
 ├── src/main/java/com/seersolutions/utility/ # Utilities (ExcelUtils, TestListener, DataProvider)
-├── src/test/java/com/automation/listeners/ # TestNG listeners for failure handling
 ├── testng.xml # Test Suite configuration
 ├── pom.xml # Maven dependencies and plugins
 └── README.md # Project documentation
