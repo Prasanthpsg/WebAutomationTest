@@ -121,3 +121,8 @@ Screenshot saved if any step fails.
 
 <img width="975" height="428" alt="image" src="https://github.com/user-attachments/assets/93f200b6-6dc1-4bce-8071-5c1d0b5a67db" />
 
+**Execution video and step by step documentation:**
+
+https://github.com/Prasanthpsg/WebAutomationTest/blob/main/Web%20Automation%20Report.docx
+
+https://github.com/Prasanthpsg/WebAutomationTest/blob/main/Webautomationexecution_REC.mp4
